@@ -1,0 +1,11 @@
+body{
+    background-image: url("bg.jfif");
+    text-align: center;
+}
+
+#myCanvas{
+    background-color: #ff00ff;
+    border-style:ridge;
+    border-width: thick;
+    
+}
